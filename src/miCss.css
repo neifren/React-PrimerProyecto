@@ -1,0 +1,22 @@
+.contenedor{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.tarjeta{
+    width: 30%;
+    background-color: rgb(188, 190, 31);
+    color: rgb(0, 0, 0);
+    font-size: 2em;
+    border-radius: 12px;
+    text-align: center;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 12px;
+}
+
+
+.imgLogo{
+    width: auto;
+}
